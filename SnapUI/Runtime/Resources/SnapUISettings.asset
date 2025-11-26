@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ef4be262aedad34db442c94068a98f0, type: 3}
+  m_Name: SnapUISettings
+  m_EditorClassIdentifier: Assembly-CSharp::SnapUISettings
+  defaultTheme: {fileID: 11400000, guid: 1b655dfa3dca7da408b4a3710a39a273, type: 2}
+  defaultFont: {fileID: 12800000, guid: f4eec857a4fdf2f43be0e9f3d1a984e7, type: 3}
+  animationDuration: 0.25
+  enableShadows: 1

@@ -1,0 +1,11 @@
+{
+    "name": "com.obsoletehq.snapui",
+    "version": "1.0.0",
+    "displayName": "SnapUI",
+    "description": "A custom Unity UI editor toolkit with a view window, hierarchy window, theme system and inspector tools.",
+    "unity": "2021.3",
+    "author": { "name": "Ethan Pope" },
+    "keywords": [ "ui", "editor", "tools", "layout", "theme" ],
+    "license": "MIT"
+  }
+  
